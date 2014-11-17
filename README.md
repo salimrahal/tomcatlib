@@ -20,8 +20,6 @@ javax.ws.rs-api-2.0.jar*
 Library name: PrimeFaces 5.0
 primefaces-5.0.jar
 
-
-
 Library name: file upload:
 commons-fileupload-1.3.1.jar
 commons-io-2.4.jar
@@ -35,8 +33,6 @@ iText-2.1.7.jar
 iTextAsian.jar
 iText-5.0.2.jar
 jasperreports-3.7.3.jar
-
-
 
 Library name: Jersey 2.5.1 (JAX-RS RI). Total 22 jar:
 asm-all-repackaged-2.2.0-b21.jar*
@@ -62,3 +58,9 @@ org.osgi.core-4.2.0.jar*
 osgi-resource-locator-1.0.1.jar*
 persistence-api-1.0.jar*
 validation-api-1.1.0.Final.jar*
+
+Library name: mail and related ones:
+mail.jar
+
+Library name: mysql connector:
+mysql-connector-java-5.1.12-bin.jar
