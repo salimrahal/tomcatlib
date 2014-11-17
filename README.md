@@ -1,6 +1,6 @@
 tomcatlib
 =========
-This repository contains the jars useful for tomcat:
+This repository contains the jars useful for tomcat (except the .ttf)
 1-jasper report
 2-jsf
 3-primefaces
@@ -33,7 +33,9 @@ commons-logging-1.1.jar
 groovy-all-1.5.5.jar
 iText-2.1.7.jar
 iTextAsian.jar
+iText-5.0.2.jar
 jasperreports-3.7.3.jar
+
 
 
 Library name: Jersey 2.5.1 (JAX-RS RI). Total 22 jar:
