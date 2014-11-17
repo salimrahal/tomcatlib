@@ -1,6 +1,6 @@
 tomcatlib
 =========
-This repository contains the jar useful for tomcat:
+This repository contains the jars useful for tomcat:
 jasper report
 jsf
 primefaces
