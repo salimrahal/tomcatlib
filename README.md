@@ -7,6 +7,7 @@ This repository contains the jars useful for tomcat:
 4-files upload
 5-mysql connector
 6-javamail related jars (mail, dns, etc)
+7- restful ws
 
 
 
