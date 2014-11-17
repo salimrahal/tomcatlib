@@ -12,6 +12,9 @@ This repository contains the jars useful for tomcat:
 
 
 Details:
+Library name: JSF 2.2:
+javax.faces.jar
+
 Library name: Jersey 2.5.1 (JAX-RS RI). Total 22 jar:
 asm-all-repackaged-2.2.0-b21.jar*
 cglib-2.2.0-b21.jar*
