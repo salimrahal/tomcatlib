@@ -61,6 +61,11 @@ validation-api-1.1.0.Final.jar*
 
 Library name: mail and related ones:
 mail.jar
+mailapi.jar
+pop3.jar
+smtp.jar
+dsn.jar
+imap.jar
 
 Library name: mysql connector:
 mysql-connector-java-5.1.12-bin.jar
