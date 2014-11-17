@@ -5,3 +5,5 @@ jasper report
 jsf
 primefaces
 files upload
+mysql connector
+javamail related jars (mail, dns, etc)
